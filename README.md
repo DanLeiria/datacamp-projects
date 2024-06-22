@@ -20,4 +20,9 @@ Application of K-means clustering to label penguin species based on their physic
 
 - **Keywords**: Python; K-means; Unsupervised learning; Clustering; Machine learning; Animal species; Biology.
 
+### 4) cnn_keras_clothes_image_recognition
+
+This code demonstrates how to build, train, and evaluate a Convolutional Neural Network (CNN) for image recognition (and classification) using TensorFlow and Keras on the Fashion MNIST dataset. The current model shows an <ins>**an accuracy of 85% in the testing dataset**</ins>.
+
+- **Keywords**: Python; Keras; Deep learning; Convolutional neural network; Image recognition; Clothes classification.
 
