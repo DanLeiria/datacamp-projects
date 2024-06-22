@@ -1,4 +1,4 @@
-# <img src="https://github.com/DanLeiria/predictive_modeling_agriculture/assets/67419641/8c4b7c55-134c-45b1-9b8e-880f75ca2737" alt="Predictive Modeling for Agriculture" width="50"> Datacamp projects
+# <img src="https://github.com/DanLeiria/datacamp-projects/assets/67419641/86929942-5ac2-431b-92fd-83594859b357" width="50" /> Datacamp projects
 
 I have compiled all the datacamp projects I have been solving until this day. These projects are listed below:
 
