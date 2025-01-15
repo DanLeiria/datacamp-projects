@@ -26,3 +26,9 @@ This code demonstrates how to build, train, and evaluate a Convolutional Neural 
 
 - **Keywords**: Python; Keras; Deep learning; Convolutional neural network; Image recognition; Clothes classification.
 
+### 5) python-api-currency-converter
+
+Blah
+
+- **Keywords**: API, Currency converter, E-commerce.
+
