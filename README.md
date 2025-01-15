@@ -28,7 +28,7 @@ This code demonstrates how to build, train, and evaluate a Convolutional Neural 
 
 ### 5) python-api-currency-converter
 
-Blah
+Blah Blah Blah
 
 - **Keywords**: API, Currency converter, E-commerce.
 
