@@ -32,3 +32,14 @@ Blah Blah Blah
 
 - **Keywords**: API, Currency converter, E-commerce.
 
+### 6) devops-register-app-users
+
+Define functions to catch errors when new users register for an app! Small exercise to workout with Python.
+
+- **Keywords**: Python, Errors handling, functions.
+
+### 7) growth_programming_languages_year (NOT ADDED)
+
+***
+
+- **Keywords**: ***.
