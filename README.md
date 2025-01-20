@@ -28,7 +28,7 @@ This code demonstrates how to build, train, and evaluate a Convolutional Neural 
 
 ### 5) python-api-currency-converter
 
-Blah Blah Blah
+Query the VatComply API to gather exchange rate information and incorporate into a sales orders dataset. Small exercise to workout with Python.
 
 - **Keywords**: API, Currency converter, E-commerce.
 
@@ -40,6 +40,6 @@ Define functions to catch errors when new users register for an app! Small exerc
 
 ### 7) growth_programming_languages_year (NOT ADDED)
 
-***
+Blah Blah Blah
 
-- **Keywords**: ***.
+- **Keywords**: Key1, Key2, Key3.
